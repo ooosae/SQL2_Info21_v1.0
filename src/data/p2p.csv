@@ -1,0 +1,17 @@
+id,check,checkingpeer,state,time
+1,1,kodatyna,Start,13:00
+2,1,kodatyna,Success,13:15
+3,2,audofqji,Start,12:00
+4,2,audofqji,Success,12:20
+5,3,lakdoqaf,Start,15:30
+6,3,lakdoqaf,Success,16:20
+7,4,lakdoqaf,Start,19:10
+8,4,lakdoqaf,Failure,19:25
+9,5,paocmvne,Start,20:20
+10,5,paocmvne,Success,21:20
+11,6,tomakigi,Start,10:10
+12,6,tomakigi,Failure,11:00
+13,7,tomakigi,Start,9:05
+14,7,tomakigi,Success,9:30
+15,8,paocmvne,Start,11:00
+16,8,paocmvne,Success,11:40

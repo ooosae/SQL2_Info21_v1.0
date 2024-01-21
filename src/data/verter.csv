@@ -1,0 +1,13 @@
+id,check,state,time
+1,1,Start,13:16
+2,1,Success,13:18
+3,2,Start,12:21
+4,2,Success,12:22
+5,3,Start,16:21
+6,3,Failure,16:25
+7,5,Start,11:01
+8,5,Success,11:04
+9,7,Start,9:31
+10,7,Success,9:33
+11,8,Start,11:41
+12,8,Success,11:48

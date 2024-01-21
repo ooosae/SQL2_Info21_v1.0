@@ -1,0 +1,12 @@
+title,parenttask,maxxp
+C2_SimpleBashUtils,,250
+C3_s21_string+,C2_SimpleBashUtils,500
+C4_s21_math,C3_s21_string+,300
+C5_s21_decimal,C4_s21_math,350
+C8_3DViewer_v1.0,C5_s21_decimal,750
+CPP1_s21_matrix+,C8_3DViewer_v1.0,300
+CPP2_containers,CPP1_s21_matrix+,350
+CPP4_3DViewer_v2.0,CPP2_containers,750
+A1_Maze,CPP4_3DViewer_v2.0,300
+CPP5_MLP,CPP4_3DViewer_v2.0,700
+A2_SimpleNavigator_v1.0,A1_Maze,400
